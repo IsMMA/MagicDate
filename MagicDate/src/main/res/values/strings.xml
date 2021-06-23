@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Fechas -->
+    <string name="de">de</string>
+    <string name="enero">enero</string>
+    <string name="febrero">febrero</string>
+    <string name="marzo">marzo</string>
+    <string name="abril">abril</string>
+    <string name="mayo">mayo</string>
+    <string name="junio">junio</string>
+    <string name="julio">julio</string>
+    <string name="agosto">agosto</string>
+    <string name="septiembre">septiembre</string>
+    <string name="octubre">octubre</string>
+    <string name="noviembre">noviembre</string>
+    <string name="diciembre">diciembre</string>
+</resources>

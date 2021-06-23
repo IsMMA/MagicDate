@@ -1,0 +1,3 @@
+include ':MagicDate'
+include ':app'
+rootProject.name = "My Application"
